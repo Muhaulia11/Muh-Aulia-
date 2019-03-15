@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/aul', function () {
     return 'hello world!';
 });
+Route::get('/au', function () {
+    return 'hello aull!';
+});
